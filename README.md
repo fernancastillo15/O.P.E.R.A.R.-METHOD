@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="OPERAR" src="https://github.com/user-attachments/assets/aaf028c8-09c9-4712-bffb-73f95e76483d" />
+
 # O.P.E.R.A.R.
 
 ## Operación Planificada para la Eficiencia, Revisión y Resultados
